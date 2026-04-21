@@ -1,4 +1,4 @@
-package com.re.bt1;
+package com.re.restaurant;
 
 import java.io.*;
 
